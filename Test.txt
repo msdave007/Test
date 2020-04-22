@@ -1,0 +1,4 @@
+this is the first sample file for git tutorial
+added a second line now.
+This is my first page.
+Is learning fun?
